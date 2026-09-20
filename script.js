@@ -1,4 +1,4 @@
-const prices = 16;
+const prices = 18;
 let cups = 0;
 
 const orderButton = document.getElementById('order-button');
