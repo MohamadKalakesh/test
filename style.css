@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 24px;
+  background: #f5efe6;
+  color: #38271e;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+main {
+  max-width: 440px;
+  margin: 60px auto;
+  padding: 32px;
+  background: white;
+  border-radius: 16px;
+}
+
+.label {
+  color: #8a5435;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+h1 { font-size: 36px; }
+h2 { font-size: 20px; }
+
+button {
+  padding: 12px 20px;
+  border: 0;
+  border-radius: 8px;
+  background: #75452c;
+  color: white;
+  font: inherit;
+  cursor: pointer;
+}
+
+button:hover { background: #54301e; }
+button:focus-visible { outline: 3px solid #b86b35; outline-offset: 3px; }
